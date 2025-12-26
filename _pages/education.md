@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /education/
-title: education
+title: Education
 description: Education Background
 nav: true
 nav_order: 1
