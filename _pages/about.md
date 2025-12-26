@@ -13,6 +13,7 @@ profile:
     <p>Office: Electronic Information Building, Group 2-428</p>
     <p>Shanghai Jiao Tong University</p>
     <p>Shanghai, China</p>
+    <p><a href="https://scholar.google.com/citations?user=Vbb5EGIAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
